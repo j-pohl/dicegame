@@ -1,6 +1,6 @@
 # Dice Game
 
-## Javascript Dice Game, players take turns rolling the dice and the first to reach a score of 20 wins
+Players take turns rolling the dice and the first to reach a score of 20 wins
 
 [Click here to view the finished project](https://j-pohl.github.io/dicegame/)
 
